@@ -1,18 +1,62 @@
-<h1 align="center">Hi 👋, I'm Jonathan Molina</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<p align="center">
+  <img src="./assets/header.svg" alt="Jonathan Molina — Software Developer" width="100%" />
+</p>
 
-- 🔭 I’m currently working on **HR Solutions**
+<p align="center">
+  <a href="https://jonmemopri.com"><img src="https://img.shields.io/badge/Portfolio-jonmemopri.com-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:jonathanjdml@hotmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-6366F1?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Jonathan" /></a>
+  <a href="https://github.com/Jonme-Mopri?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+</p>
 
-- 🌱 I’m currently learning **Vue, React, Node JS.**
+## About me
 
-- 👯 I’m looking to collaborate on **Interactive HR**
+I'm a product-minded software developer based in Bogotá, Colombia. I turn business needs into maintainable web experiences, with a strong foundation in Angular and TypeScript and a growing focus on full-stack systems, cloud delivery and developer experience.
 
-- 👨‍💻 All of my projects are available at [https://github.com/JonathanPrime](https://github.com/JonathanPrime)
+- Building HR products and internal tools that simplify complex workflows.
+- Shipping frontend systems with **Angular, React, Vue and TypeScript**.
+- Designing APIs with **Node.js, NestJS, MongoDB and Spring Boot**.
+- Deploying repeatable infrastructure with **AWS, Docker and GitHub Actions**.
+- Exploring secure systems and human-controlled AI through **Brane OS**.
 
-- 💬 Ask me about **Angular, TypeScript**
+## Current focus
 
-- 📫 How to reach me **jonathanjdml@hotmail.com**
+| Product engineering | Cloud & backend | Systems exploration |
+| --- | --- | --- |
+| Accessible interfaces, reusable design systems and reliable state management | Secure APIs, observable services and automated deployments | Rust, capability-based security and policy-controlled AI |
 
+## Selected work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [**Brane OS**](https://github.com/Jonme-Mopri/braneOS) | A modular operating system with capability-based security, auditability and a policy-controlled AI subsystem. | Rust, Python, QEMU |
+| [**jonmemopri.com**](https://jonmemopri.com) | My production portfolio: a React frontend on CloudFront and a NestJS API running on EC2 with MongoDB Atlas. | React, TypeScript, NestJS, MongoDB, AWS |
+| [**Spring Microservices**](https://github.com/Jonme-Mopri/Proyect-Microservices-Spring) | A distributed learning platform with centralized configuration, discovery, gateway, course and student services. | Java, Spring Boot, Eureka |
+| [**Stock Companies**](https://github.com/Jonme-Mopri/Stock-Companies) | A mobile stock-tracking experience with search, watchlists, charts and gesture-driven interactions. | React Native, Expo, TypeScript |
+| [**Flight Price Tracker**](https://github.com/Jonme-Mopri/Flight-tracking-in-python) | Browser automation that monitors Google Flights and sends email alerts when prices cross a threshold. | Python, Selenium |
+
+## Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,ts,js,nodejs,nestjs,mongodb,html,css,sass,bootstrap,java,spring,python,rust,aws,docker,git,githubactions&perline=11" alt="Jonathan's technology stack" />
+  </a>
+</p>
+
+## How I work
+
+- Start with the user and the problem, then choose the technology.
+- Prefer small, testable pieces over accidental complexity.
+- Treat accessibility, security and observability as product requirements.
+- Automate builds and deployments so releases stay boring and repeatable.
+
+## Let's build something useful
+
+I'm open to collaborating on frontend platforms, HR technology, developer tooling and thoughtful open-source projects.
+
+<p align="center">
+  <a href="mailto:jonathanjdml@hotmail.com"><strong>Start a conversation</strong></a>
+  ·
+  <a href="https://jonmemopri.com"><strong>Visit my portfolio</strong></a>
+  ·
+  <a href="https://github.com/Jonme-Mopri?tab=repositories"><strong>Browse all projects</strong></a>
+</p>
