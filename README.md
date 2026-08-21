@@ -24,6 +24,15 @@ I'm a product-minded software developer based in Bogotá, Colombia. I turn busin
 | --- | --- | --- |
 | Accessible interfaces, reusable design systems and reliable state management | Secure APIs, observable services and automated deployments | Rust, capability-based security and policy-controlled AI |
 
+## Enterprise experience
+
+Since 2023, my Git history reflects sustained work across a private HR product ecosystem. I keep the implementation details confidential, but the engineering scope includes:
+
+- Evolving large Angular and TypeScript applications through shared components, design tokens and cross-product visual migrations.
+- Building role- and scope-aware workflows for projects, approvals, time records, dashboards and operational reporting.
+- Connecting frontend experiences with Node.js services, authentication, notifications and enterprise integrations.
+- Coordinating reviewed releases across development, QA, staging and production environments.
+
 ## Selected work
 
 | Project | What it explores | Stack |
